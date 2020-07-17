@@ -1,0 +1,2 @@
+# SQL-Server-Simula-es-de-fun-es-bancarias
+T-SQL: Representação de funções/processos bancários como: Depósito, Saque, Transferência e histórico de transferências, todos com validações e tratamentos de erros. Esse repositório foi feito para popular, movimentar e testar futuras ações de um sistema para o projeto final da faculdade (UNIP- Análise e Desenvolvimento de Sistemas). Segundo o contexto da ementa, são simulações para procurar um banco baseado na tecnologia Blockchain
