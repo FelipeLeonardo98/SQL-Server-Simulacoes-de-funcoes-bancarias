@@ -16,7 +16,7 @@ BEGIN TRANSACTION;
 		,CONSTRAINT PK_TRANSACAO PRIMARY KEY (id_transacao)
 	);
 GO
-	ALTER PROCEDURE sp_transferencia
+	CREATE PROCEDURE sp_transferencia
 		@clienteOrigem VARCHAR(30)
 		,@cpfOrigem		CHAR(15)
 		,@corretoraOrigem  VARCHAR(30) 

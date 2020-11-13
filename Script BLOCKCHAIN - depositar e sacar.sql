@@ -3,7 +3,7 @@
 -- Criando bloco TRAN por segurança
 BEGIN TRANSACTION;
 GO
-	ALTER PROCEDURE sp_depositar_sacar
+	CREATE PROCEDURE sp_depositar_sacar
 			 @operacao CHAR(1)
 			 ,@paraCPF CHAR(15) OUTPUT
 			 ,@valor   DECIMAL(8,2) OUTPUT

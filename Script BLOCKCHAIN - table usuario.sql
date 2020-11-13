@@ -1,4 +1,6 @@
 -- Criação da tabela 'usuario' no banco do Sistema BLOCKCHAIN
+
+CREATE DATABASE BLOCKCHAIN;
 use [BLOCKCHAIN];
  
 CREATE TABLE USUARIO

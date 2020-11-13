@@ -1,4 +1,5 @@
 -- Criação da tabela 'Funcionario' e 'Cliente' no banco do Sistema CAPMONEY
+CREATE DATABASE CAPMONEY;
 use [CAPMONEY];
 
 
